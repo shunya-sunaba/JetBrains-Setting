@@ -1,0 +1,103 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/JavaScript Console" timestamp="1514241419557">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/htdocs/aws/s3/error.html" timestamp="1517717257387">
+        <mark key="[" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/htdocs/php/laravel/app/Http/Controllers/HelloController.php" timestamp="1513210389170">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/htdocs/aws/CloudFormation/cloudformation_vpc.template" timestamp="1517914228743">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/htdocs/aws/ElasticBeanstalk/sample.php" timestamp="1518318404571">
+        <mark key="[" line="6" column="2" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1513207746790">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/htdocs/aws/s3/redirect.xml" timestamp="1517717502796">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/htdocs/php/laravel/routes/web.php" timestamp="1513210583100">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/htdocs/aws/s3/index.html" timestamp="1517717241014">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/htdocs/php/laravel/routes/web.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/htdocs/aws/CloudFormation/cloudformation_vpc.template" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJPdXRwdXRzIjogewoKICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJPdXRwdXRzIjogewoKICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJNYXBwaW5nIjogewogICAgICAgIAogICAgfSwKICAgICJDb25kaXRpb25zIjogewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJQYXJhbWV0ZXJkZHMiOiB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Um91dGU6OmdldCgnaGVsbG8nLCAnSGVsbG9Db250cm9sbGVyQGluZGV4Jyk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Um91dGU6OmdldCgnaGVsbG8vb3RoZXInLCAnSGVsbG9Db250cm9sbGVyQG90aGVyJyk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">JGhlYWQgPSA8PDxFT0Q=</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>

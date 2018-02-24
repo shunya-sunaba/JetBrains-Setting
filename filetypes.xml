@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="template" type="JSON" />
+      <mapping pattern="get_cloudwatch_metrix.py" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
